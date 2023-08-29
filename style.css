@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+/*Vamos estilizar nossa sessão de jogadores*/
+.jogadores{
+
+}
+
+/*Vamos estilizar nosso botão*/
+button{
+    width: 10%;  /* Tamanho em relação a tela*/
+    padding: 1%; /*Espaço entre a letra e a borda de dentro do  botão*/
+    color:        /*cor da letra*/
+    border-radius:
+    font-size:    /*Tamanho da letra*/
+}
